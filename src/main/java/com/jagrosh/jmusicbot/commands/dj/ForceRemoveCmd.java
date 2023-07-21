@@ -15,8 +15,8 @@
  */
 package com.jagrosh.jmusicbot.commands.dj;
 
-import com.jagrosh.jdautilities.command.CommandEvent;
-import com.jagrosh.jdautilities.commons.utils.FinderUtil;
+import com.bradeurs.jdautilities.command.CommandEvent;
+import com.bradeurs.jdautilities.commons.utils.FinderUtil;
 import com.jagrosh.jdautilities.menu.OrderedMenu;
 import com.jagrosh.jmusicbot.Bot;
 import com.jagrosh.jmusicbot.audio.AudioHandler;

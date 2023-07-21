@@ -173,6 +173,8 @@ public class OtherUtil
     
     public static String getCurrentVersion()
     {
+        String name = JMusicBot.class.getPackage().getImplementationVersion();
+        String name2 = JMusicBot.class.getPackage().toString();
         if(JMusicBot.class.getPackage()!=null && JMusicBot.class.getPackage().getImplementationVersion()!=null)
             return JMusicBot.class.getPackage().getImplementationVersion();
         else

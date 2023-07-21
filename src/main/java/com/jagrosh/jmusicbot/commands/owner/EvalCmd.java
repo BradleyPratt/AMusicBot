@@ -17,7 +17,7 @@ package com.jagrosh.jmusicbot.commands.owner;
 
 import javax.script.ScriptEngine;
 import javax.script.ScriptEngineManager;
-import com.jagrosh.jdautilities.command.CommandEvent;
+import com.bradeurs.jdautilities.command.CommandEvent;
 import com.jagrosh.jmusicbot.Bot;
 import com.jagrosh.jmusicbot.commands.OwnerCommand;
 

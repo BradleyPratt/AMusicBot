@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jda-utilities-3.1.0-all">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/jda-utilities-3.1.0-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

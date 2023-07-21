@@ -17,7 +17,7 @@ package com.jagrosh.jmusicbot.commands.music;
 
 import java.util.List;
 import java.util.concurrent.TimeUnit;
-import com.jagrosh.jdautilities.command.CommandEvent;
+import com.bradeurs.jdautilities.command.CommandEvent;
 import com.jagrosh.jdautilities.menu.Paginator;
 import com.jagrosh.jmusicbot.Bot;
 import com.jagrosh.jmusicbot.JMusicBot;
