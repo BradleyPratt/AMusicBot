@@ -52,7 +52,7 @@ jobs:
       - name: Show Artifacts
         run: ls -R
       - name: Create Release
-        uses: ncipollo/release-action@v1
+        uses: actions/create-release@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           tag: ${{ github.event.inputs.version_number }}

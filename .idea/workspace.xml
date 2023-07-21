@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85bef514-c641-45ff-84d8-b1ea00ef8e29" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "last_opened_file_path": "C:/Users/Bradley/OneDrive/Documents/GitHub/AMusicBot/src/main/resources/jda-utilities-3.1.0-all.jar",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.49310344",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install:install-file -Dfile=${project.basedir}/jda-utilities-3.1.0.jar -DgroupId=com.microsoft.sqlserver -DartifactId=sqljdbc41 -Dversion=4.1 -Dpackaging=jar " />
+      <command value="mvn install:install-file -Dfile=${project.basedir}/jda-utilities-3.1.0.jar -DgroupId=com.bradeurs -DartifactId=jda-utilities -Dversion=3.1.0-Dpackaging=jar " />
+      <command value="mvn install:install-file -Dfile=${project.basedir}/jda-utilities-3.1.0.jar -DgroupId=com.bradeurs -DartifactId=jda-utilities -Dversion=3.1.0 -Dpackaging=jar " />
+    </option>
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>
