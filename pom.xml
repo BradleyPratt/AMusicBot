@@ -35,9 +35,10 @@
             <version>4.4.1_353</version>
         </dependency>
         <dependency>
-            <groupId>com.bradeurs</groupId>
+            <groupId>com.jagrosh</groupId>
             <artifactId>jda-utilities</artifactId>
-            <version>3.1.0</version>
+            <version>3.0.5</version>
+            <type>pom</type>
         </dependency>
 
         <!-- Music Dependencies -->
@@ -122,7 +123,7 @@
                             </transformer>
                             <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
                                 <manifestEntries>
-                                    <Main-Class>com.jagrosh.jmusicbot.JMusicBot</Main-Class>
+                                    <Main-Class>com.bradeurs.jmusicbot.JMusicBot</Main-Class>
                                     <Specification-Title>${project.artifactId}</Specification-Title>
                                     <Specification-Version>${project.version}</Specification-Version>
                                     <Implementation-Title>${project.artifactId}</Implementation-Title>
@@ -139,7 +140,7 @@
     </build>
 
     <properties>
-        <start-class>com.jagrosh.jmusicbot.JMusicBot</start-class>
+        <start-class>com.bradeurs.jmusicbot.JMusicBot</start-class>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
