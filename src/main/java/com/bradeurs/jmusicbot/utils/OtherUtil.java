@@ -15,7 +15,7 @@
  */
 package com.bradeurs.jmusicbot.utils;
 
-import com.bradeurs.jmusicbot.JMusicBot;
+import com.bradeurs.jmusicbot.AMusicBot;
 import com.bradeurs.jmusicbot.entities.Prompt;
 import java.io.*;
 import java.net.URISyntaxException;
@@ -58,7 +58,7 @@ public class OtherUtil
         {
             try
             {
-                result = Paths.get(new File(JMusicBot.class.getProtectionDomain().getCodeSource().getLocation().toURI()).getParentFile().getPath() + File.separator + path);
+                result = Paths.get(new File(AMusicBot.class.getProtectionDomain().getCodeSource().getLocation().toURI()).getParentFile().getPath() + File.separator + path);
             }
             catch(URISyntaxException ex) {}
         }
@@ -173,10 +173,10 @@ public class OtherUtil
     
     public static String getCurrentVersion()
     {
-        String name = JMusicBot.class.getPackage().getImplementationVersion();
-        String name2 = JMusicBot.class.getPackage().toString();
-        if(JMusicBot.class.getPackage()!=null && JMusicBot.class.getPackage().getImplementationVersion()!=null)
-            return JMusicBot.class.getPackage().getImplementationVersion();
+        String name = AMusicBot.class.getPackage().getImplementationVersion();
+        String name2 = AMusicBot.class.getPackage().toString();
+        if(AMusicBot.class.getPackage()!=null && AMusicBot.class.getPackage().getImplementationVersion()!=null)
+            return AMusicBot.class.getPackage().getImplementationVersion();
         else
             return "UNKNOWN";
     }

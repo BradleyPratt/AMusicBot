@@ -27,7 +27,6 @@ import com.bradeurs.jmusicbot.utils.OtherUtil;
 import com.bradeurs.jmusicbot.entities.Prompt;
 import com.bradeurs.jmusicbot.settings.SettingsManager;
 
-import java.awt.Color;
 import java.util.Arrays;
 import javax.security.auth.login.LoginException;
 import net.dv8tion.jda.api.*;
@@ -42,9 +41,9 @@ import org.slf4j.LoggerFactory;
  *
  * @author John Grosh (jagrosh)
  */
-public class JMusicBot 
+public class AMusicBot
 {
-    public final static Logger LOG = LoggerFactory.getLogger(JMusicBot.class);
+    public final static Logger LOG = LoggerFactory.getLogger(AMusicBot.class);
     public final static Permission[] RECOMMENDED_PERMS = {Permission.MESSAGE_READ, Permission.MESSAGE_WRITE, Permission.MESSAGE_HISTORY, Permission.MESSAGE_ADD_REACTION,
                                 Permission.MESSAGE_EMBED_LINKS, Permission.MESSAGE_ATTACH_FILES, Permission.MESSAGE_MANAGE, Permission.MESSAGE_EXT_EMOJI,
                                 Permission.MANAGE_CHANNEL, Permission.VOICE_CONNECT, Permission.VOICE_SPEAK, Permission.NICKNAME_CHANGE};

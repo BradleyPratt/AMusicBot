@@ -6,73 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="85bef514-c641-45ff-84d8-b1ea00ef8e29" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jda-utilities-3.1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/jda-utilities-3.1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/JMusicBot-0.3.9 (old).jar" beforeDir="false" afterPath="$PROJECT_DIR$/run/JMusicBot-0.3.9 (old).jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/JMusicBot-0.3.9.jar" beforeDir="false" afterPath="$PROJECT_DIR$/run/JMusicBot-0.3.9.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/Bot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/Bot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/BotConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/BotConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/JMusicBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/JMusicBot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/Listener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/Listener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/audio/AloneInVoiceHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/audio/AloneInVoiceHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/audio/AudioHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/audio/AudioHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/audio/NowplayingHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/audio/NowplayingHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/audio/PlayerManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/audio/PlayerManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/audio/QueuedTrack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/audio/QueuedTrack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/audio/RequestMetadata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/audio/RequestMetadata.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/audio/TransformativeAudioSourceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/audio/TransformativeAudioSourceManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/AdminCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/AdminCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/DJCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/DJCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/MusicCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/MusicCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/OwnerCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/OwnerCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/admin/PrefixCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/admin/PrefixCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/admin/SetdjCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/admin/SetdjCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/admin/SettcCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/admin/SettcCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/admin/SetvcCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/admin/SetvcCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/admin/SkipratioCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/admin/SkipratioCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/dj/ForceRemoveCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/dj/ForceRemoveCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/dj/ForceskipCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/dj/ForceskipCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/dj/MoveTrackCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/dj/MoveTrackCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/dj/PauseCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/dj/PauseCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/dj/PlaynextCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/dj/PlaynextCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/dj/RepeatCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/dj/RepeatCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/dj/SkiptoCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/dj/SkiptoCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/dj/StopCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/dj/StopCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/dj/VolumeCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/dj/VolumeCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/general/SettingsCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/general/SettingsCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/music/LyricsCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/music/LyricsCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/music/NowplayingCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/music/NowplayingCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/music/PlayCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/music/PlayCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/music/PlaylistsCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/music/PlaylistsCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/music/QueueCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/music/QueueCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/music/RemoveCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/music/RemoveCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/music/SCSearchCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/music/SCSearchCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/music/SearchCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/music/SearchCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/music/ShuffleCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/music/ShuffleCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/music/SkipCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/music/SkipCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/owner/AutoplaylistCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/owner/AutoplaylistCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/owner/DebugCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/owner/DebugCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/owner/EvalCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/owner/EvalCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/owner/PlaylistCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/owner/PlaylistCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/owner/SetavatarCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/owner/SetavatarCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/owner/SetgameCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/owner/SetgameCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/owner/SetnameCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/owner/SetnameCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/owner/SetstatusCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/owner/SetstatusCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/commands/owner/ShutdownCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/commands/owner/ShutdownCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/entities/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/entities/Pair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/entities/Prompt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/entities/Prompt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/gui/ConsolePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/gui/ConsolePanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/gui/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/gui/GUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/gui/TextAreaOutputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/gui/TextAreaOutputStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/playlist/PlaylistLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/playlist/PlaylistLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/queue/FairQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/queue/FairQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/queue/Queueable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/queue/Queueable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/settings/RepeatMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/settings/RepeatMode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/settings/Settings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/settings/Settings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/settings/SettingsManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/settings/SettingsManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/utils/FormatUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/utils/FormatUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jagrosh/jmusicbot/utils/OtherUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bradeurs/jmusicbot/utils/OtherUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/jagrosh/jmusicbot/FairQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bradeurs/jmusicbot/FairQueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jda-utilities-3.1.0.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +71,7 @@
       <updated>1689973336166</updated>
       <workItem from="1689973337359" duration="41000" />
       <workItem from="1689983000601" duration="83000" />
-      <workItem from="1690041195645" duration="2047000" />
+      <workItem from="1690041195645" duration="3688000" />
     </task>
     <servers />
   </component>
